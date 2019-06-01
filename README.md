@@ -4,8 +4,8 @@
 2. [MUC5B Promoter Variant and Rheumatoid Arthritis with Interstitial Lung Disease](./2019/nejmoa18015622019.pdf)
 3. 
 
-
 ### 2018 Publication
-
+1.[Genome-wide DNA methylation profiles reveal common epigenetic patterns of interferon-related genes in multiple autoimmune diseases](./2018/)
 
 ### 2017 Publication
+1. [Genome-wide DNA methylation patterns in CD4+ T cells from Chinese Han patients with rheumatoid arthritis](./2017/)
