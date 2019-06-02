@@ -16,3 +16,4 @@
 1. [Pathogenesis of ankylosing spondylitis — recent advances and future directions](./2016/nrdp20181.pdf)
 2. [Rheumatoid arthritis: epidemiology, pathophysiology, diagnosis and management of RA](./2016/nrrheum.2017.56.pdf)
 3. [Genome-Wide Association Studies and Case-Control Association Study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002822)
+4. [Hypertension in rheumatoid arthritis: screening strategies and management algorithms for Hypertension in RA](./2016/ken159.pdf)
