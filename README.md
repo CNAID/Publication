@@ -2,7 +2,7 @@
 
 1. [Two types of fibroblast drive arthritis](./2019/d41586-019-01594-9.pdf)
 2. [MUC5B Promoter Variant and Rheumatoid Arthritis with Interstitial Lung Disease](./2019/nejmoa18015622019.pdf)
-3.  
+3. [Single-cell RNA-seq of rheumatoid arthritis synovial tissue using low-cost microfluidic instrumentation](https://www.nature.com/articles/s41467-017-02659-x)
 
 ### 2018 Publication
 1. [Genome-wide DNA methylation profiles reveal common epigenetic patterns in multiple autoimmune diseases](https://www.frontiersin.org/articles/10.3389/fgene.2019.00223/full)
