@@ -12,5 +12,5 @@
 1. [Genome-wide DNA methylation patterns in CD4+ T cells from Chinese Han patients with rheumatoid arthritis](./2017/Shicheng_Guo_Rheumatology_2017.pdf)
 
 ### 2016 Publication
-1. [Pathogenesis of ankylosing spondylitis — recent advances and future directions](./2016/)
-2. [Rheumatoid arthritis: epidemiology, pathophysiology, diagnosis and management of RA](./2016/)
+1. [Pathogenesis of ankylosing spondylitis — recent advances and future directions](./2016/nrdp20181.pdf)
+2. [Rheumatoid arthritis: epidemiology, pathophysiology, diagnosis and management of RA](./2016/nrrheum.2017.56.pdf)
