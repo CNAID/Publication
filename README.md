@@ -18,3 +18,4 @@
 3. [Genome-Wide Association Studies and Case-Control Association Study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002822)
 4. [Hypertension in rheumatoid arthritis: screening strategies and management algorithms for Hypertension in RA](./2016/ken159.pdf)
 5. [Dyslipidaemia in rheumatoid arthritis: screening strategies and management algorithms for Dyslipidaemia in RA](./2016/10.2174157016110791112269.pdf)
+6. [Prevalence and associations of hypertension and its control in patients with rheumatoid arthritis](https://academic.oup.com/rheumatology/article/46/9/1477/1789884)
