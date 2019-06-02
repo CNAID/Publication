@@ -6,6 +6,7 @@
 
 ### 2018 Publication
 1. [Genome-wide DNA methylation profiles reveal common epigenetic patterns in multiple autoimmune diseases](https://www.frontiersin.org/articles/10.3389/fgene.2019.00223/full)
+2. [Fine-mapping and functional studies highlight potential causal variants for rheumatoid arthritis](https://www.nature.com/articles/s41588-018-0216-7)
 
 ### 2017 Publication
 1. [Genome-wide DNA methylation patterns in CD4+ T cells from Chinese Han patients with rheumatoid arthritis](./2017/Shicheng_Guo_Rheumatology_2017.pdf)
