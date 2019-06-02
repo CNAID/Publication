@@ -8,4 +8,4 @@
 1. [Genome-wide DNA methylation profiles reveal common epigenetic patterns in multiple autoimmune diseases](https://www.frontiersin.org/articles/10.3389/fgene.2019.00223/full)
 
 ### 2017 Publication
-1. [Genome-wide DNA methylation patterns in CD4+ T cells from Chinese Han patients with rheumatoid arthritis](./2017/)
+1. [Genome-wide DNA methylation patterns in CD4+ T cells from Chinese Han patients with rheumatoid arthritis](./2017/Shicheng_Guo_Rheumatology_2017.pdf)
