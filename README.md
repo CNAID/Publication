@@ -10,6 +10,7 @@
 
 ### 2017 Publication
 1. [Genome-wide DNA methylation patterns in CD4+ T cells from Chinese Han patients with rheumatoid arthritis](./2017/Shicheng_Guo_Rheumatology_2017.pdf)
+2. [Genetic polymorphisms in PTPN22, PADI-4, and CTLA-4 and risk for rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2483441/)
 
 ### 2016 Publication
 1. [Pathogenesis of ankylosing spondylitis — recent advances and future directions](./2016/nrdp20181.pdf)
