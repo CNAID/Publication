@@ -20,3 +20,4 @@
 5. [Dyslipidaemia in rheumatoid arthritis: screening strategies and management algorithms for Dyslipidaemia in RA](./2016/10.2174157016110791112269.pdf)
 6. [Prevalence and associations of hypertension and its control in patients with rheumatoid arthritis](https://academic.oup.com/rheumatology/article/46/9/1477/1789884)
 7. [Interstitial lung disease (ILD) in rheumatoid arthritis: screening strategies and management algorithms](https://thorax.bmj.com/content/63/Suppl_5/v1)
+8. [The genetics of rheumatoid arthritis: risk and protection in different stages of the evolution of RA](./2016/ken159.pdf)
